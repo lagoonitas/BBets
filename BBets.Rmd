@@ -137,9 +137,17 @@ We started with  at 35 which was to high ,then we tried 37 then we tried 29 whic
 
 
 
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
+
+At the beginning DR.J was making about $200 dollars profit with class size of 35,with 2:1 odds when guessing that there would be at least 2 students with the same birthday.When changing the odds pay from to 4.5:1 we got payout for DR.J down to about 0 dollars profit.
+
+We then changed the class size from 35 to either 28 or 29 students at 2:1 odds and we got the same results,Dr.J's profits were very close to 0.
+
+
+
 
 
 
