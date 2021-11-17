@@ -93,6 +93,19 @@ print(sd(money))
 
 # What are the fair odds? Use manipulation of odds in the function to tune Brownlows earnings to zero. 
 
+```{r}
+money=vector("numeric",0)
+
+for(i in c(1:200)){
+  money[i]=( profit(35,4.5,637))
+}
+hist(money)
+```
+
+
+We chose random values for pay off odds until we got a histogram to center at 0 . I started off with 1 which was too low,so we tried 5 which was closer to 0 but still to high. We went do down to 4 which lead us to 4.5 ,which was the best pick. A manipulation of the odds variable to a class size of 35 with an odds ratio of 4.5:1;that profits for Dr.J showed zero.
+
+
 
 <!--Decide on your methods:  In this section explain the approach you will take to attack the issue --- how will you decide on a likely estimate of professor Brownlow's earnings or losses after 637 bets. Also explain how you construct a 95% confidence interval about your estimate of his winnings !-->
 
@@ -100,6 +113,18 @@ print(sd(money))
 
 
 # What size of class makes the 2:1 bet fair?  Use manipulation of number of Students to tune Brownlows earnings to zero.
+
+
+```{r}
+money=vector("numeric",0)
+for(i in c(1:1000)){
+  money[i]=( profit(29,2,637))
+}
+hist(money)
+```
+
+
+We started with  at 35 ,then we tried 37 then we settled on 29 or 28 which were pretty similier so we went with 29 which was close to zero profit for DR.J
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
