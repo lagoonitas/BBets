@@ -82,7 +82,7 @@ print(sd(money))
 ## the standard deviation and a 95% confidence interval for their earnings?
   The 95% confidence interval for earnings is `r lci` to `r uci`
   
-  The standard deviation is 32.68724
+  The standard deviation is 32.68724.
   
   
   
