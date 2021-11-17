@@ -124,7 +124,9 @@ hist(money)
 ```
 
 
-We started with  at 35 ,then we tried 37 then we settled on 29 or 28 which were pretty similier so we went with 29 which was close to zero profit for DR.J
+We started with  at 35 which was to high ,then we tried 37 then we tried 29 which was to high ,then 28 which was too low,so we settled on 28 between 29 which were pretty similar and both would be acceptable answers.  So we went with 29 students with the bet being 2:1  which was close to zero profit for DR.J.
+
+
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
@@ -138,4 +140,7 @@ We started with  at 35 ,then we tried 37 then we settled on 29 or 28 which were 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
+
+
+
 
